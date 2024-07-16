@@ -1,0 +1,469 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "6000K-c777f": "",
+      "Advanced English Grammar In Use Activities": "",
+      "Anki themes: Missing! (2.1.0)": "",
+      "Anki themes: Simple (2.5.0)": "",
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Cloze": "",
+      "Code": "",
+      "common parts of speech": "",
+      "Dict2Anki-v6.1.6": "",
+      "Differences": "",
+      "English Grammar In Use Activities": "",
+      "English Grammar In Use Exercises": "",
+      "Essential Idioms in English": "",
+      "eudic": "",
+      "Go": "",
+      "iKnow! Sentences": "",
+      "iKnow! Vocabulary": "",
+      "Image Occlusion Enhanced": "",
+      "KaTeX and Markdown Basic": "",
+      "KaTeX and Markdown Cloze": "",
+      "MarginNote3New": "",
+      "novel-reading": "",
+      "phrases": "",
+      "PopClip": "",
+      "sentences": "",
+      "TOEFL 绿宝书": "",
+      "Ultimate Geography": "",
+      "Ultimate Geography [Extended]": "",
+      "video_card": "",
+      "图片遮盖": "",
+      "基本填空": "",
+      "基础写作模版": "",
+      "填空题": "",
+      "视频卡片模版（带时间段）": "",
+      "词根词缀": "",
+      "词汇": "",
+      "词汇复习": "",
+      "问答题": "",
+      "问答题（同时生成翻转的卡片<可选>）": "",
+      "问答题（同时生成翻转的卡片）": "",
+      "问答题（输入答案）": "",
+      "阅读生词模版": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "6000K-c777f": "Frequency",
+      "Advanced English Grammar In Use Activities": "Id",
+      "Anki themes: Missing! (2.1.0)": "★ Title",
+      "Anki themes: Simple (2.5.0)": "★ Title",
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Cloze": "Text",
+      "Code": "Front",
+      "common parts of speech": "Part of speech",
+      "Dict2Anki-v6.1.6": "term",
+      "Differences": "🤔 Confused Concepts",
+      "English Grammar In Use Activities": "Id",
+      "English Grammar In Use Exercises": "Id",
+      "Essential Idioms in English": "Id",
+      "eudic": "word",
+      "Go": "SGF",
+      "iKnow! Sentences": "Expression",
+      "iKnow! Vocabulary": "Expression",
+      "Image Occlusion Enhanced": "ID (hidden)",
+      "KaTeX and Markdown Basic": "Front",
+      "KaTeX and Markdown Cloze": "Text",
+      "MarginNote3New": "Front",
+      "novel-reading": "word/phrase",
+      "phrases": "📝 Phrase/Acronym",
+      "PopClip": "Front",
+      "sentences": "📝✨ Name",
+      "TOEFL 绿宝书": "word",
+      "Ultimate Geography": "Country",
+      "Ultimate Geography [Extended]": "Country",
+      "video_card": "video_name",
+      "图片遮盖": "遮盖",
+      "基本填空": "知识",
+      "基础写作模版": "Front",
+      "填空题": "文字",
+      "视频卡片模版（带时间段）": "video_name",
+      "词根词缀": "词根词缀",
+      "词汇": "word",
+      "词汇复习": "问题",
+      "问答题": "正面",
+      "问答题（同时生成翻转的卡片<可选>）": "正面",
+      "问答题（同时生成翻转的卡片）": "正面",
+      "问答题（输入答案）": "正面",
+      "阅读生词模版": "word"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "test file.md": "5ff789feb29434a4afde0aeac5f7bc3d",
+    "Welcome.md": "5dce4937496ad2d20178a7578f1a1368"
+  },
+  "fields_dict": {
+    "6000K-c777f": [
+      "Frequency",
+      "Character",
+      "Pinyin",
+      "Definition",
+      "Sample 1",
+      "Sample 2",
+      "Answer 1",
+      "Answer 2"
+    ],
+    "Advanced English Grammar In Use Activities": [
+      "Id",
+      "Audio",
+      "Image",
+      "Category",
+      "Unit",
+      "Rubric",
+      "Question",
+      "Choices"
+    ],
+    "Anki themes: Missing! (2.1.0)": [
+      "★ Title",
+      "☆ Subtitle",
+      "☆ Syntax (inline code)",
+      "★ Key point (code block or image)",
+      "★ Key point notes",
+      "✎ Other notes",
+      "✎ Markdown"
+    ],
+    "Anki themes: Simple (2.5.0)": [
+      "★ Title",
+      "☆ Subtitle",
+      "☆ Syntax (inline code)",
+      "★ Sample (code block or image)",
+      "★ Key point (code block or image)",
+      "★ Key point notes",
+      "✎ Other notes",
+      "✎ Markdown"
+    ],
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Extra",
+      "Source"
+    ],
+    "Code": [
+      "Front",
+      "Back",
+      "Detail",
+      "Code",
+      "Keys"
+    ],
+    "common parts of speech": [
+      "Part of speech",
+      "Function",
+      "examples"
+    ],
+    "Dict2Anki-v6.1.6": [
+      "term",
+      "definition",
+      "sentenceFront",
+      "sentenceBack",
+      "phraseFront",
+      "phraseBack",
+      "image",
+      "BrEPhonetic",
+      "AmEPhonetic",
+      "BrEPron",
+      "AmEPron"
+    ],
+    "Differences": [
+      "🤔 Confused Concepts",
+      "✅ Clarification",
+      "📝 Examples"
+    ],
+    "English Grammar In Use Activities": [
+      "Id",
+      "Audio",
+      "Image",
+      "Category",
+      "Unit",
+      "Rubric",
+      "Question",
+      "Choices"
+    ],
+    "English Grammar In Use Exercises": [
+      "Id",
+      "Category",
+      "Unit",
+      "Rubric",
+      "Question",
+      "Choices",
+      "Image",
+      "Audio",
+      "AudioText"
+    ],
+    "Essential Idioms in English": [
+      "Id",
+      "Audio",
+      "Expression",
+      "Meaning",
+      "Comment",
+      "Examples"
+    ],
+    "eudic": [
+      "word",
+      "pos",
+      "audio",
+      "definition",
+      "example_en",
+      "example_zh",
+      "note",
+      "mnemonic",
+      "collocation",
+      "derivative",
+      "reference",
+      "synonym",
+      "antonym",
+      "word_list",
+      "icon_img"
+    ],
+    "Go": [
+      "SGF"
+    ],
+    "iKnow! Sentences": [
+      "Expression",
+      "Meaning",
+      "Reading",
+      "Audio",
+      "Image_URI",
+      "iKnowID",
+      "iKnowType"
+    ],
+    "iKnow! Vocabulary": [
+      "Expression",
+      "Meaning",
+      "Reading",
+      "Audio",
+      "Image_URI",
+      "iKnowID",
+      "iKnowType"
+    ],
+    "Image Occlusion Enhanced": [
+      "ID (hidden)",
+      "Header",
+      "Image",
+      "Question Mask",
+      "Footer",
+      "Remarks",
+      "Sources",
+      "Extra 1",
+      "Extra 2",
+      "Answer Mask",
+      "Original Mask"
+    ],
+    "KaTeX and Markdown Basic": [
+      "Front",
+      "Back"
+    ],
+    "KaTeX and Markdown Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "MarginNote3New": [
+      "Front",
+      "ClozeFront",
+      "TextFront",
+      "Back",
+      "ClozeBack",
+      "TextBack",
+      "Remarks",
+      "MNLink",
+      "MNMindMap"
+    ],
+    "novel-reading": [
+      "word/phrase",
+      "chapter",
+      "phonetic symbol",
+      "places of speech",
+      "English meaning",
+      "Chinese meaning",
+      "orginial sentence",
+      "audio",
+      "Chinese translation"
+    ],
+    "phrases": [
+      "📝 Phrase/Acronym",
+      "📚 Meaning",
+      "🌟 Examples"
+    ],
+    "PopClip": [
+      "Front",
+      "Back",
+      "Source"
+    ],
+    "sentences": [
+      "📝✨ Name",
+      "📚🤯 Sentence",
+      "🔑💡 Key Point"
+    ],
+    "TOEFL 绿宝书": [
+      "word",
+      "pos",
+      "audio",
+      "definition",
+      "example_en",
+      "example_zh",
+      "note",
+      "mnemonic",
+      "collocation",
+      "derivative",
+      "reference",
+      "synonym",
+      "antonym",
+      "word_list",
+      "icon_img"
+    ],
+    "Ultimate Geography": [
+      "Country",
+      "Country info",
+      "Capital",
+      "Capital info",
+      "Capital hint",
+      "Flag",
+      "Flag similarity",
+      "Map"
+    ],
+    "Ultimate Geography [Extended]": [
+      "Country",
+      "Country info",
+      "Capital",
+      "Capital info",
+      "Capital hint",
+      "Flag",
+      "Flag similarity",
+      "Map"
+    ],
+    "video_card": [
+      "video_name",
+      "subtitle",
+      "notes",
+      "video_mp4_name"
+    ],
+    "图片遮盖": [
+      "遮盖",
+      "图片",
+      "头部",
+      "背面额外",
+      "注释"
+    ],
+    "基本填空": [
+      "知识",
+      "拓展",
+      "举例",
+      "《》",
+      "出处"
+    ],
+    "基础写作模版": [
+      "Front",
+      "Back",
+      "extra"
+    ],
+    "填空题": [
+      "文字",
+      "背面额外"
+    ],
+    "视频卡片模版（带时间段）": [
+      "video_name",
+      "video_mp4_name",
+      "subtitle_text",
+      "subtitle_times",
+      "notes"
+    ],
+    "词根词缀": [
+      "词根词缀",
+      "意义",
+      "举例",
+      "评论",
+      "拓展",
+      "出处"
+    ],
+    "词汇": [
+      "word",
+      "pos",
+      "audio",
+      "definition",
+      "example_en",
+      "example_cn",
+      "word_list",
+      "note"
+    ],
+    "词汇复习": [
+      "问题",
+      "答案",
+      "《》",
+      "评论",
+      "举例",
+      "拓展",
+      "出处"
+    ],
+    "问答题": [
+      "正面",
+      "背面"
+    ],
+    "问答题（同时生成翻转的卡片<可选>）": [
+      "正面",
+      "背面",
+      "添加翻转的卡片"
+    ],
+    "问答题（同时生成翻转的卡片）": [
+      "正面",
+      "背面"
+    ],
+    "问答题（输入答案）": [
+      "正面",
+      "背面"
+    ],
+    "阅读生词模版": [
+      "word",
+      "pos",
+      "definition",
+      "example_en",
+      "example_zh",
+      "note",
+      "mnemonic",
+      "collocation",
+      "derivative",
+      "reference",
+      "synonym",
+      "antonym",
+      "word_list",
+      "icon_img"
+    ]
+  }
+}
